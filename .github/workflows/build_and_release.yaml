@@ -1,4 +1,4 @@
-name: Build and release Aseprite
+name: 构建和发布Aseprite最新版本
 
 on:
   push:
